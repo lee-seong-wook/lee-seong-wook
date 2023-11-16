@@ -44,11 +44,14 @@ Skills: PYTHON
 </div>
 
 <div align=center>
-<a href="mailto:solee890@naver.com">
+	<a href="mailto:solee890@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white")]([https://www.instagram.com/our_st.ro2])/>
 	</a>
- 	<br>
+	<a href="https://www.instagram.com/our_st.ro2">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
+</div>
+
 </div>
 <div align=center>
 	<br>
