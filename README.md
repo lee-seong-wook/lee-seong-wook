@@ -54,7 +54,7 @@ I'm Daelim college student
     <a href="https://www.instagram.com/our_st.ro2">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
     </a>
-	<a href="https://www.instagram.com/our_st.ro2">
+	<a href="https://www.facebook.com/profile.php?id=100008650308823&locale=ko_KR">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" />
 </a>
 
