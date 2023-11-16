@@ -1,5 +1,5 @@
 
-### Hi there 👋, my name is seongwook
+### Hi there 👋, my name is Seongwook
 #### I'm Daelim college student
 "I am a student studying artificial intelligence. My main interest lies in computer vision. I have uploaded the projects I've created and the things I've studied, so I hope you take a keen interest in them."
 
