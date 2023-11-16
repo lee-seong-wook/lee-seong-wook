@@ -6,7 +6,7 @@ I'm Daelim college student
 
 
 - 🔭 I’m currently working on Daelim college 
-- 🌱 I’m currently learning Artificial Intelligence: computer vision 
+- 🌱 I’m currently learning Artificial Intelligence-computer vision 
 - 📫 How to reach me: solee890@naver.com 
 
 
