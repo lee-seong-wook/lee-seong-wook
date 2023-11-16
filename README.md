@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header&text=🐉Profile🐉&fontSize=150" />
 ### Hi there 👋, my name is Seongwook
 #### I'm Daelim college student
 "I am a student studying artificial intelligence. My main interest lies in computer vision. I have uploaded the projects I've created and the things I've studied, so I hope you take a keen interest in them."
@@ -18,5 +19,4 @@ Skills: PYTHON
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-seong-wook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-seong-wook&show_icons=true)  
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-seong-wook%2Fhit-counter&count_bg=%23963DC8&title_bg=%23090B0B&icon=&icon_color=%23E7E7E7&title=Number+of+visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongwook%2Fhit-counter&count_bg=%238D1FCA&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
