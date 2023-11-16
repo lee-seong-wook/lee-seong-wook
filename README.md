@@ -20,7 +20,6 @@ Skills: PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-seong-wook&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lee-seong-wook)  
 
 ![GitHub metrics](https://metrics.lecoq.io/lee-seong-wook)  
 
