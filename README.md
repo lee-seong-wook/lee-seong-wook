@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:solee890@naver.com">
-         <img src="https://img.shields.io/badge/Naver-#03C75A?style=flat&logo=naver&logoColor=white"/>
+         <img src="https://img.shields.io/badge/
+             naver-03C75A?style=flat&logo=naver&logoColor=white"/>
 
-    </a>
-   
+
