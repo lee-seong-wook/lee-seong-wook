@@ -19,4 +19,4 @@ Skills: PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-seong-wook&show_icons=true)  
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-seong-wook%2Fhit-counter&count_bg=%23963DC8&title_bg=%23090B0B&icon=&icon_color=%23E7E7E7&title=Number+of+visitors&edge_flat=true)](https://hits.seeyoufarm.com)
