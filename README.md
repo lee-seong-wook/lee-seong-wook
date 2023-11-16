@@ -20,21 +20,25 @@ I'm Daelim college student
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
 	<br>
 <img src="https://img.shields.io/badge/Roboflow-F16061?style=flat&logo=Roboflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-0082C1?style=flat&logo=OpenAI&logoColor=white" />
-
-	
+	<br>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry%20Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Jackson%20Nano-1D252C?style=flat&logo=jackson&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />	
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 
 </div>
