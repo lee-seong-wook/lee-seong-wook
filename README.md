@@ -39,6 +39,12 @@ Skills: PYTHON
 <a href="mailto:solee890@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+ 	<br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-seong-wook&layout=compact">
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-seong-wook&show_icons=true&count_private=true)  
