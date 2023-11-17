@@ -34,12 +34,18 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Jackson%20Nano-1D252C?style=flat&logo=jackson&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />	
+<br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" />
+
 
 </div>
 <div align=center>
