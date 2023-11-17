@@ -34,8 +34,10 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Jackson%20Nano-1D252C?style=flat&logo=jackson&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />	
-<br>
+	<br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+
 
 </div>
 <br>
