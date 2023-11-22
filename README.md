@@ -28,11 +28,9 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-0082C1?style=flat&logo=OpenAI&logoColor=white" />
 	<br>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry%20Pi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Jackson%20Nano-1D252C?style=flat&logo=jackson&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />	
 	<br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
