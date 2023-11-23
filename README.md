@@ -36,6 +36,8 @@ I'm Daelim college student
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+
 
 </div>
 <br>
