@@ -41,7 +41,7 @@ I'm Daelim college student
 	
 </div>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 SNS 🎨</p>
 </div>
 </div>
 
