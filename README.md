@@ -19,6 +19,8 @@ I'm Daelim college student
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<br>
