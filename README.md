@@ -37,8 +37,6 @@ I am a student studying artificial intelligence. My main interest lies in comput
 	<p>🛠 Tools 🛠</p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" />
-<br>
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 	
 </div>
