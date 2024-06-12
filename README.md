@@ -77,3 +77,5 @@ I'm Daelim college student
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=lee-seong-wook)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongwook%2Fhit-counter&count_bg=%238D1FCA&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![GitHub Snake dark](https://raw.githubusercontent.com/neo-fetch/neo-fetch/output/github-contribution-grid-snake-dark.svg)
