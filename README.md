@@ -6,7 +6,7 @@ I am a student studying artificial intelligence. My main interest lies in comput
 - 🌱 I’m currently learning Artificial Intelligence - computer vision
 - 👨‍💻 I am also an undergraduate researcher at the CVPR Lab.
 
-- 📫 How to reach me: solee890@naver.com ..
+- 📫 How to reach me: solee890@naver.com 
 
 
 
