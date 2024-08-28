@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header&text=🐉PROFILE🐉&fontSize=100" />
-Hi there 👋, 
-I am a student studying artificial intelligence. My main interest lies in computer vision. I have uploaded the projects I've created and the things I've studied, so I hope you take a keen interest in them.☺️
+ 
+I'm a student studying artificial intelligence. My main interest lies in computer vision.
+<br>
+I have uploaded the projects I've created and the things I've studied.
 
 - 🎓 I’m currently working on Daelim College
 - 🌱 I’m currently learning Artificial Intelligence - computer vision
