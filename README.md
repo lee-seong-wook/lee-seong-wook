@@ -4,9 +4,9 @@ I'm a student studying artificial intelligence. My main interest lies in compute
 <br>
 I have uploaded the projects I've created and the things I've studied.
 
-- 🎓 I’m currently working on Daelim College
+- 🎓 I’m currently working on sejong university
 - 🌱 I’m currently learning Artificial Intelligence - computer vision
-- 👨‍💻 I am also an undergraduate researcher at the CVPR Lab.
+- 👨‍💻 I'm also a researcher at the CVPR Lab.
 
 - 📫 How to reach me: solee890@naver.com 
 
@@ -64,7 +64,7 @@ I have uploaded the projects I've created and the things I've studied.
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-seong-wook&layout=compact">
+
 
 
 
@@ -73,9 +73,7 @@ I have uploaded the projects I've created and the things I've studied.
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=lee-seong-wook)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongwook%2Fhit-counter&count_bg=%238D1FCA&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Commit wall
-![GitHub Snake dark](https://raw.githubusercontent.com/neo-fetch/neo-fetch/output/github-contribution-grid-snake-dark.svg)
+
