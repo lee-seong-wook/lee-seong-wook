@@ -35,11 +35,7 @@ I have uploaded the projects I've created and the things I've studied.
 
 </div>
 <br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+
 	
 </div>
 <div align=center>
