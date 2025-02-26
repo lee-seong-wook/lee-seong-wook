@@ -1,12 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFC0CB&height=180&section=header&text=🐉PROFILE🐉&fontSize=100" />
- 
-I'm a student studying artificial intelligence. My main interest lies in computer vision.
-<br>
-I have uploaded the projects I've created and the things I've studied.
+
+I have uploaded the projects I've created and the things I've studied
 
 - 🎓 I’m currently working on sejong university
 - 🌱 I’m currently learning Artificial Intelligence - computer vision
-- 👨‍💻 I'm also a researcher at the CVPR Lab.
+- 👨‍💻 I'm a researcher at the CVPR Lab.
 
 - 📫 How to reach me: solee890@naver.com 
 
