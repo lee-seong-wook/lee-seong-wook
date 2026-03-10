@@ -1,24 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Abstract banner for Seongwook Lee" width="100%" />
+</p>
 
-# Seongwook Lee
+<p align="center">
+  <strong>Seongwook Lee</strong><br/>
+  M.S. Student, CVPR Lab at Sejong University<br/>
+  Medical AI · Computer Vision · Deployable Vision Systems
+</p>
 
-M.S. Student, CVPR Lab at Sejong University  
-Medical AI · Computer Vision · Deployable Vision Systems
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko">Google Scholar</a> · <a href="https://cvpr.sejong.ac.kr/">CVPR Lab</a> · <a href="mailto:solee890@naver.com">Email</a>
+</p>
 
-[Google Scholar](https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko) · [CVPR Lab](https://cvpr.sejong.ac.kr/) · [Email](mailto:solee890@naver.com)
+<p align="center">
+  <em>Building computer vision systems from research prototypes to deployable applications.</em>
+</p>
 
-</div>
+I work on computer vision research with a focus on medical AI, robust visual recognition, and deployment-oriented system design. My interests span lightweight segmentation, detection under challenging visual conditions, and edge-ready pipelines that connect research ideas to real-world use.
 
-## About
-I am an M.S. student at the CVPR Lab, Sejong University, working on computer vision research with an emphasis on medical AI and practical vision systems. My work spans model development, data-centric experimentation, and deployment-oriented implementations that connect research ideas to usable systems. I am especially interested in robust visual perception in real-world environments and efficient on-device pipelines.
+<table>
+<tr>
+<td width="58%" valign="top">
+  <b>Current Work</b>
+  <ul>
+    <li>Lightweight medical image segmentation for efficient deployment</li>
+    <li>Robust detection and preprocessing in difficult visual conditions</li>
+    <li>Vision pipelines that move from research prototypes to usable systems</li>
+  </ul>
+</td>
+<td width="42%" valign="top">
+  <b>Research Profile</b><br/>
+  Medical AI<br/>
+  Computer Vision<br/>
+  Object Detection<br/>
+  Edge / On-device Systems
+</td>
+</tr>
+</table>
 
-## Research Highlights
-- [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)  
-  Scientific Reports, 2026. Lightweight medical image segmentation designed for efficient on-device deployment.
-- [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)  
-  IEEE International Symposium on Consumer Technology, 2025. A resource-aware disease detection pipeline for practical visual recognition.
-- [YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)  
-  Proceedings of KIIT Conference, 2024. A study of preprocessing strategies for improving object detection under low-light conditions.
+## Featured Research
+
+| Year | Venue | Selected work |
+| --- | --- | --- |
+| 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight medical image segmentation designed for efficient on-device deployment. |
+| 2025 | IEEE ISCT | [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)<br/>A resource-aware disease detection pipeline for practical visual recognition. |
+| 2024 | KIIT Conference | [YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)<br/>A study of preprocessing strategies for improving object detection under low-light conditions. |
 
 <details>
 <summary>Full publication list</summary>
@@ -33,19 +59,44 @@ I am an M.S. student at the CVPR Lab, Sejong University, working on computer vis
 
 </details>
 
-## Selected Projects
-- **[object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot)** — Built a Raspberry Pi based robotic arm pipeline that combines object detection, data collection, augmentation, and motion control. Stack: Python, OpenCV, YOLO, Raspberry Pi. Relevance: shows end-to-end computer vision system implementation.
-- **[MyLock](https://github.com/lee-seong-wook/MyLock)** — Developed a Raspberry Pi based smart door lock prototype integrating OTP handling, face recognition, device control, and local data storage. Stack: Python, OpenCV, dlib, MySQL, Raspberry Pi. Relevance: demonstrates deployable vision and embedded integration.
-- **[Adversarial_Attack](https://github.com/lee-seong-wook/Adversarial_Attack)** — Implemented FGSM-based adversarial attack experiments to study model behavior under perturbations. Stack: Python, Jupyter Notebook, deep learning experiments. Relevance: reflects research-oriented model analysis and experimentation.
+## Featured Projects
 
-## Tech Stack
-Python · PyTorch · OpenCV · Linux · Embedded/Edge Prototyping
+<table>
+<tr>
+<td width="33%" valign="top">
+  <b><a href="https://github.com/lee-seong-wook/object_detection_robot">object_detection_robot</a></b><br/>
+  Robotic arm pipeline for detection, data collection, augmentation, and motion control.<br/><br/>
+  <sub>Python · OpenCV · YOLO · Raspberry Pi</sub>
+</td>
+<td width="33%" valign="top">
+  <b><a href="https://github.com/lee-seong-wook/MyLock">MyLock</a></b><br/>
+  Smart door lock prototype integrating OTP handling, face recognition, device control, and local storage.<br/><br/>
+  <sub>Python · OpenCV · dlib · MySQL · Raspberry Pi</sub>
+</td>
+<td width="33%" valign="top">
+  <b><a href="https://github.com/lee-seong-wook/Adversarial_Attack">Adversarial_Attack</a></b><br/>
+  FGSM-based adversarial attack experiments for analyzing model behavior under perturbations.<br/><br/>
+  <sub>Python · Jupyter Notebook · Deep Learning</sub>
+</td>
+</tr>
+</table>
 
-## GitHub
+## Tools
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-111827?style=flat-square&logo=raspberrypi&logoColor=C51A4A" />
+</p>
+
+## GitHub Snapshot
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lee-seong-wook&show_icons=true&count_private=true&hide_border=true&rank_icon=github" height="160" />
 </p>
 
 ---
 
-I am interested in research collaborations and engineering work around medical imaging, computer vision systems, and deployable AI.
+Open to research collaboration and engineering work in medical imaging, vision systems, and deployable AI.
