@@ -81,6 +81,7 @@ In addition to my primary affiliation at Sejong University, I contribute to coll
 
 | Project | Context | Focus |
 | --- | --- | --- |
+| [swim-unet](https://github.com/lee-seong-wook/swim-unet) | Scientific Reports, 2026 | Public research code for lightweight 3D medical image segmentation with a hybrid Mamba-Transformer architecture. |
 | [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) | 디지털 고등직업교육협회, Korea · Jul. 2022 - Oct. 2022 | Arduino-based scout robot with ESP32-CAM integration, controller fabrication, and hardware implementation. |
 | [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot) | Daelim University, Korea · Mar. 2023 - Jul. 2023 | Data augmentation, data labeling, logic diagram design, and development of an object detection model. |
 | [MyLock](https://github.com/lee-seong-wook/MyLock) | Daelim University, Korea · Aug. 2023 - Nov. 2023 | Face recognition implementation, overall software configuration, and 3D CAD modeling. |
