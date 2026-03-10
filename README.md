@@ -38,6 +38,14 @@ I work on computer vision research with a focus on medical AI, robust visual rec
 </tr>
 </table>
 
+## Ongoing Research Projects
+
+| Since | Program | Focus |
+| --- | --- | --- |
+| 2026 | NRF / Hallym University Future Medical Research Center | Participating in a physician-scientist training and translational medical technology program focused on unresolved clinical challenges in the nervous system. |
+| 2025 | KOCCA | Participating in a global talent development project on copyright protection and management for on-device AI models. |
+| 2025 | Hallym University | Participating in research on federated learning based stroke prognosis prediction using medical data. |
+
 ## Featured Research
 
 | Year | Venue | Selected work |
