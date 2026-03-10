@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Seongwook Lee</strong><br/>
-  M.S. Student, CVPR Lab at Sejong University<br/>
+  M.S. Student (2025-present), CVPR Lab at Sejong University<br/>
   Medical AI · Computer Vision · Deployable Vision Systems
 </p>
 
@@ -21,7 +21,7 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 <table>
 <tr>
 <td width="42%" valign="top">
-  <b>Current Research Directions</b>
+  <b>Current Research Focus</b>
   <ul>
     <li>Lightweight medical image segmentation for efficient deployment</li>
     <li>Robust detection and preprocessing in difficult visual conditions</li>
@@ -77,7 +77,7 @@ In addition to my primary affiliation at Sejong University, I contribute to coll
 
 </details>
 
-## Representative Systems and Prototypes
+## Selected Research Systems
 
 | Project | Summary |
 | --- | --- |
@@ -85,6 +85,10 @@ In addition to my primary affiliation at Sejong University, I contribute to coll
 | [MyLock](https://github.com/lee-seong-wook/MyLock) | Smart door lock prototype integrating OTP handling, face recognition, device control, and local storage, developed with Python, OpenCV, dlib, MySQL, and Raspberry Pi. |
 | [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) | Two-wheel scouting robot for remote field-style operation, combining Arduino Uno control, NRF24L01 communication, BLDC actuation, and ESP32-CAM vision support. |
 
+## Honors and Awards
+
+_A selected list of honors and awards will be added here._
+
 ---
 
-Open to research collaboration and engineering work in medical imaging, vision systems, and deployable AI.
+Open to collaboration in medical imaging, computer vision, and deployable AI systems.
