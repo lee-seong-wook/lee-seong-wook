@@ -20,7 +20,7 @@ I work on computer vision research with a focus on medical AI, robust visual rec
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="42%" valign="top">
   <b>Current Work</b>
   <ul>
     <li>Lightweight medical image segmentation for efficient deployment</li>
@@ -28,12 +28,20 @@ I work on computer vision research with a focus on medical AI, robust visual rec
     <li>Vision pipelines that move from research prototypes to usable systems</li>
   </ul>
 </td>
-<td width="42%" valign="top">
+<td width="28%" valign="top">
   <b>Research Profile</b><br/>
   Medical AI<br/>
   Computer Vision<br/>
   Object Detection<br/>
   Edge / On-device Systems
+</td>
+<td width="30%" valign="top">
+  <b>Core Stack</b><br/>
+  Python<br/>
+  PyTorch<br/>
+  OpenCV<br/>
+  Linux<br/>
+  Raspberry Pi / Embedded Prototyping
 </td>
 </tr>
 </table>
@@ -90,16 +98,6 @@ As a graduate student at Sejong University, I also participate in collaborative 
 </td>
 </tr>
 </table>
-
-## Tools
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-111827?style=flat-square&logo=raspberrypi&logoColor=C51A4A" />
-</p>
 
 ## GitHub Snapshot
 
