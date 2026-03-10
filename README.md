@@ -79,20 +79,24 @@ In addition to my primary affiliation at Sejong University, I contribute to coll
 
 ## Projects
 
-- [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot), 디지털 고등직업교육협회, Korea. Applied ESP32-CAM to Arduino-based scout robot control, including controller fabrication, coding, and hardware manufacturing (Jul. 2022 - Oct. 2022).
-- [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot), Daelim University, Korea. Data augmentation, data labeling, logic diagram design, and development of an object detection model (Mar. 2023 - Jul. 2023).
-- [MyLock](https://github.com/lee-seong-wook/MyLock), Daelim University, Korea. Implementation of face recognition technology, overall software configuration, and 3D CAD modeling (Aug. 2023 - Nov. 2023).
-- [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition), (주)더브레인에스, Korea. Development of a vehicle license plate recognition model and application of optical character recognition (Aug. 2023).
-- [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet), Daelim University, Korea. Hardware production, Raspberry Pi and Arduino board interworking, and TTS-based system application (Aug. 2023 - Oct. 2023).
+| Project | Context | Focus |
+| --- | --- | --- |
+| [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) | 디지털 고등직업교육협회, Korea · Jul. 2022 - Oct. 2022 | Arduino-based scout robot with ESP32-CAM integration, controller fabrication, and hardware implementation. |
+| [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot) | Daelim University, Korea · Mar. 2023 - Jul. 2023 | Data augmentation, data labeling, logic diagram design, and development of an object detection model. |
+| [MyLock](https://github.com/lee-seong-wook/MyLock) | Daelim University, Korea · Aug. 2023 - Nov. 2023 | Face recognition implementation, overall software configuration, and 3D CAD modeling. |
+| [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition) | (주)더브레인에스, Korea · Aug. 2023 | Vehicle license plate recognition model development and OCR application. |
+| [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet) | Daelim University, Korea · Aug. 2023 - Oct. 2023 | Hardware production, Raspberry Pi and Arduino interworking, and TTS-based system integration. |
 
 ## Awards and Honors
 
-- 은상, 디지털 고등직업교육협회, Korea (Nov. 2022)
-- 최우수상, Daelim University, Korea (Dec. 2022)
-- 최우수상, (주)더브레인에스, Korea (Aug. 2023)
-- 대상, Daelim University, Korea (Oct. 2023)
-- 대상, Daelim University, Korea (Nov. 2023)
-- 최우수상, 디지털 고등직업교육협회, Korea (Dec. 2023)
+| Date | Award | Organization |
+| --- | --- | --- |
+| Nov. 2022 | 은상 | 디지털 고등직업교육협회, Korea |
+| Dec. 2022 | 최우수상 | Daelim University, Korea |
+| Aug. 2023 | 최우수상 | (주)더브레인에스, Korea |
+| Oct. 2023 | 대상 | Daelim University, Korea |
+| Nov. 2023 | 대상 | Daelim University, Korea |
+| Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
 
 ---
 
