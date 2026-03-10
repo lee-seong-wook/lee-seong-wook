@@ -84,9 +84,9 @@ As a graduate student at Sejong University, I also participate in collaborative 
   <sub>Python · OpenCV · dlib · MySQL · Raspberry Pi</sub>
 </td>
 <td width="33%" valign="top">
-  <b><a href="https://github.com/lee-seong-wook/Adversarial_Attack">Adversarial_Attack</a></b><br/>
-  FGSM-based adversarial attack experiments for analyzing model behavior under perturbations.<br/><br/>
-  <sub>Python · Jupyter Notebook · Deep Learning</sub>
+  <b><a href="https://github.com/lee-seong-wook/Scout_Robot">Scout_Robot</a></b><br/>
+  Two-wheel scouting robot built with Arduino Uno, NRF24L01, BLDC motors, and ESP32-CAM based remote vision support.<br/><br/>
+  <sub>C++ · Arduino Uno · NRF24L01 · ESP32-CAM</sub>
 </td>
 </tr>
 </table>
