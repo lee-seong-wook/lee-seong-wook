@@ -5,7 +5,7 @@
 M.S. Student, CVPR Lab at Sejong University  
 Medical AI · Computer Vision · Deployable Vision Systems
 
-[Google Scholar](https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko) · [CVPR Lab](https://cvpr.sejong.ac.kr/) · [Email](mailto:solee890@naver.com)
+[Google Scholar](https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko) · [Department](https://graduate.sejong.ac.kr/graduate/department/GSDI64_01.do) · [Email](mailto:solee890@naver.com)
 
 </div>
 
@@ -35,7 +35,7 @@ I am an M.S. student at the CVPR Lab, Sejong University, working on computer vis
 
 ## Selected Projects
 - **[object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot)** — Built a Raspberry Pi based robotic arm pipeline that combines object detection, data collection, augmentation, and motion control. Stack: Python, OpenCV, YOLO, Raspberry Pi. Relevance: shows end-to-end computer vision system implementation.
-- **[MyLock](https://github.com/lee-seong-wook/MyLock)** — Developed a smart door lock prototype around face-recognition-related components, device control, and local data handling on Raspberry Pi. Stack: Python, OpenCV, dlib, MySQL, Raspberry Pi. Relevance: demonstrates deployable vision and embedded integration.
+- **[MyLock](https://github.com/lee-seong-wook/MyLock)** — Developed a Raspberry Pi based smart door lock prototype integrating OTP handling, face recognition, device control, and local data storage. Stack: Python, OpenCV, dlib, MySQL, Raspberry Pi. Relevance: demonstrates deployable vision and embedded integration.
 - **[Adversarial_Attack](https://github.com/lee-seong-wook/Adversarial_Attack)** — Implemented FGSM-based adversarial attack experiments to study model behavior under perturbations. Stack: Python, Jupyter Notebook, deep learning experiments. Relevance: reflects research-oriented model analysis and experimentation.
 
 ## Tech Stack
