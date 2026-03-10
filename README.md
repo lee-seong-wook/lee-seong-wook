@@ -38,13 +38,15 @@ I work on computer vision research with a focus on medical AI, robust visual rec
 </tr>
 </table>
 
-## Ongoing Research Projects
+## Ongoing Collaborative Research
 
-| Since | Program | Focus |
+As a graduate student at Sejong University, I also participate in collaborative research projects with external institutions including Hallym University.
+
+| Since | Collaboration | Project |
 | --- | --- | --- |
-| 2026 | NRF / Hallym University Future Medical Research Center | Participating in a physician-scientist training and translational medical technology program focused on unresolved clinical challenges in the nervous system. |
-| 2025 | KOCCA | Participating in a global talent development project on copyright protection and management for on-device AI models. |
-| 2025 | Hallym University | Participating in research on federated learning based stroke prognosis prediction using medical data. |
+| 2026 | NRF / Hallym University Future Medical Research Center | 미래의료연구센터 육성사업 - 뇌신경계 임상현장 난제 해결을 위한 융합형 의사과학자 육성 및 현장맞춤형 미래의료선도기술 실용화 사업 |
+| 2025 | KOCCA | On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성 |
+| 2025 | Hallym University collaboration | 의료 데이터를 활용한 연합학습 기반 뇌졸중 예후 예측 모델 개발 연구 |
 
 ## Featured Research
 
