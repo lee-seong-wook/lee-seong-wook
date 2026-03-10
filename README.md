@@ -97,7 +97,3 @@ In addition to my primary affiliation at Sejong University, I contribute to coll
 | Oct. 2023 | 대상 | Daelim University, Korea |
 | Nov. 2023 | 대상 | Daelim University, Korea |
 | Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
-
----
-
-Open to collaboration in medical imaging, computer vision, and deployable AI systems.
