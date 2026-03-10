@@ -5,7 +5,7 @@
 M.S. Student, CVPR Lab at Sejong University  
 Medical AI · Computer Vision · Deployable Vision Systems
 
-[Google Scholar](https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko) · [Department](https://graduate.sejong.ac.kr/graduate/department/GSDI64_01.do) · [Email](mailto:solee890@naver.com)
+[Google Scholar](https://scholar.google.com/citations?user=nsm4HuYAAAAJ&hl=ko) · [CVPR Lab](https://cvpr.sejong.ac.kr/) · [Email](mailto:solee890@naver.com)
 
 </div>
 
