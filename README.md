@@ -48,7 +48,7 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 ## Ongoing Research Engagements
 
-As a graduate student at Sejong University, I also participate in collaborative research projects with external institutions including Hallym University.
+In addition to my primary affiliation at Sejong University, I contribute to collaborative research programs with external academic and institutional partners, including Hallym University.
 
 | Since | Partner / Program | Project |
 | --- | --- | --- |
@@ -56,9 +56,9 @@ As a graduate student at Sejong University, I also participate in collaborative 
 | 2025 | KOCCA | On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성 |
 | 2025 | Hallym University collaboration | 의료 데이터를 활용한 연합학습 기반 뇌졸중 예후 예측 모델 개발 연구 |
 
-## Selected Publications
+## Selected Research Publications
 
-| Year | Venue | Selected work |
+| Year | Venue | Research contribution |
 | --- | --- | --- |
 | 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight medical image segmentation designed for efficient on-device deployment. |
 | 2025 | IEEE ISCT | [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)<br/>A resource-aware disease detection pipeline for practical visual recognition. |
