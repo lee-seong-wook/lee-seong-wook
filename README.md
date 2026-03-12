@@ -48,7 +48,6 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 ## Ongoing Research Engagements
 
-In addition to my primary affiliation at Sejong University, I contribute to collaborative research programs with external academic and institutional partners, including Hallym University.
 
 | Since | Partner / Program | Project |
 | --- | --- | --- |
