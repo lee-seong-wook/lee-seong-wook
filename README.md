@@ -17,50 +17,49 @@
 </p>
 
 My research focuses on medical AI, robust visual recognition, and deployment-oriented computer vision systems.
-<table>
-<tr>
-<td width="42%" valign="top">
-  <b>Current Research Focus</b>
-  <ul>
-    <li>Lightweight medical image segmentation for efficient deployment</li>
-    <li>Robust detection and preprocessing in difficult visual conditions</li>
-    <li>Vision pipelines that move from research prototypes to usable systems</li>
-  </ul>
-</td>
-<td width="28%" valign="top">
-  <b>Research Interests</b><br/>
-  Medical AI<br/>
-  Computer Vision<br/>
-  Object Detection<br/>
-  Edge / On-device Systems
-</td>
-<td width="30%" valign="top">
-  <b>Technical Competencies</b><br/>
-  Python<br/>
-  PyTorch<br/>
-  OpenCV<br/>
-  Linux<br/>
-  Raspberry Pi / Embedded Prototyping
-</td>
-</tr>
-</table>
+
+## Research Snapshot
+
+**Current Focus**
+- Lightweight medical image segmentation for efficient deployment
+- Robust detection and preprocessing in difficult visual conditions
+- Vision pipelines that move from research prototypes to usable systems
+
+**Research Interests**
+
+Medical AI · Computer Vision · Object Detection · Edge / On-device Systems
+
+**Technical Competencies**
+
+Python · PyTorch · OpenCV · Linux · Raspberry Pi / Embedded Prototyping
 
 ## Ongoing Research Engagements
 
+### 2026 · NRF / Hallym University Future Medical Research Center
+미래의료연구센터 육성사업 - 뇌신경계 임상현장 난제 해결을 위한 융합형 의사과학자 육성 및 현장맞춤형 미래의료선도기술 실용화 사업
 
-| Since | Partner / Program | Project |
-| --- | --- | --- |
-| 2026 | NRF / Hallym University Future Medical Research Center | 미래의료연구센터 육성사업 - 뇌신경계 임상현장 난제 해결을 위한 융합형 의사과학자 육성 및 현장맞춤형 미래의료선도기술 실용화 사업 |
-| 2025 | KOCCA | On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성 |
-| 2025 | Hallym University collaboration | 의료 데이터를 활용한 연합학습 기반 뇌졸중 예후 예측 모델 개발 연구 |
+### 2025 · KOCCA
+On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성
+
+### 2025 · Hallym University collaboration
+의료 데이터를 활용한 연합학습 기반 뇌졸중 예후 예측 모델 개발 연구
 
 ## Selected Research Publications
 
-| Year | Venue | Research contribution |
-| --- | --- | --- |
-| 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight medical image segmentation designed for efficient on-device deployment. |
-| 2025 | IEEE ISCT | [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)<br/>A resource-aware disease detection pipeline for practical visual recognition. |
-| 2024 | KIIT Conference | [YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)<br/>A study of preprocessing strategies for improving object detection under low-light conditions. |
+### 2026 · Scientific Reports
+[Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)
+
+Lightweight medical image segmentation designed for efficient on-device deployment.
+
+### 2025 · IEEE ISCT
+[Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)
+
+A resource-aware disease detection pipeline for practical visual recognition.
+
+### 2024 · KIIT Conference
+[YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)
+
+A study of preprocessing strategies for improving object detection under low-light conditions.
 
 <details>
 <summary>Full publication list</summary>
@@ -77,22 +76,41 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 ## Projects
 
-| Project | Context | Focus |
-| --- | --- | --- |
-| [swim-unet](https://github.com/lee-seong-wook/swim-unet) | Scientific Reports, 2026 | Public research code for lightweight 3D medical image segmentation with a hybrid Mamba-Transformer architecture. |
-| [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) | 디지털 고등직업교육협회, Korea · Jul. 2022 - Oct. 2022 | Arduino-based scout robot with ESP32-CAM integration, controller fabrication, and hardware implementation. |
-| [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot) | Daelim University, Korea · Mar. 2023 - Jul. 2023 | Data augmentation, data labeling, logic diagram design, and development of an object detection model. |
-| [MyLock](https://github.com/lee-seong-wook/MyLock) | Daelim University, Korea · Aug. 2023 - Nov. 2023 | Face recognition implementation, overall software configuration, and 3D CAD modeling. |
-| [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition) | (주)더브레인에스, Korea · Aug. 2023 | Vehicle license plate recognition model development and OCR application. |
-| [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet) | Daelim University, Korea · Aug. 2023 - Oct. 2023 | Hardware production, Raspberry Pi and Arduino interworking, and TTS-based system integration. |
+### [swim-unet](https://github.com/lee-seong-wook/swim-unet)
+**Context:** Scientific Reports, 2026
+
+Public research code for lightweight 3D medical image segmentation with a hybrid Mamba-Transformer architecture.
+
+### [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot)
+**Context:** 디지털 고등직업교육협회, Korea · Jul. 2022 - Oct. 2022
+
+Arduino-based scout robot with ESP32-CAM integration, controller fabrication, and hardware implementation.
+
+### [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot)
+**Context:** Daelim University, Korea · Mar. 2023 - Jul. 2023
+
+Data augmentation, data labeling, logic diagram design, and development of an object detection model.
+
+### [MyLock](https://github.com/lee-seong-wook/MyLock)
+**Context:** Daelim University, Korea · Aug. 2023 - Nov. 2023
+
+Face recognition implementation, overall software configuration, and 3D CAD modeling.
+
+### [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition)
+**Context:** (주)더브레인에스, Korea · Aug. 2023
+
+Vehicle license plate recognition model development and OCR application.
+
+### [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet)
+**Context:** Daelim University, Korea · Aug. 2023 - Oct. 2023
+
+Hardware production, Raspberry Pi and Arduino interworking, and TTS-based system integration.
 
 ## Awards and Honors
 
-| Date | Award | Organization |
-| --- | --- | --- |
-| Nov. 2022 | 은상 | 디지털 고등직업교육협회, Korea |
-| Dec. 2022 | 최우수상 | Daelim University, Korea |
-| Aug. 2023 | 최우수상 | (주)더브레인에스, Korea |
-| Oct. 2023 | 대상 | Daelim University, Korea |
-| Nov. 2023 | 대상 | Daelim University, Korea |
-| Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
+- **Nov. 2022 · 은상** — 디지털 고등직업교육협회, Korea
+- **Dec. 2022 · 최우수상** — Daelim University, Korea
+- **Aug. 2023 · 최우수상** — (주)더브레인에스, Korea
+- **Oct. 2023 · 대상** — Daelim University, Korea
+- **Nov. 2023 · 대상** — Daelim University, Korea
+- **Dec. 2023 · 최우수상** — 디지털 고등직업교육협회, Korea
