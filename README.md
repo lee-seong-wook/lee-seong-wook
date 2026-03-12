@@ -20,23 +20,28 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 <table>
 <tr>
-<td colspan="2" valign="top">
-  <b>Current Focus</b><br/><br/>
-  Lightweight medical image segmentation for efficient deployment<br/>
-  Robust preprocessing and recognition in difficult visual conditions<br/>
-  Vision pipelines that move from research prototypes to usable systems
+<td width="40%" valign="top">
+  <b>Current Research Focus</b>
+  <ul>
+    <li>Lightweight medical image segmentation for efficient deployment</li>
+    <li>Robust preprocessing and recognition in difficult visual conditions</li>
+    <li>Vision pipelines that move from research prototypes to usable systems</li>
+  </ul>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <b>Research Interests</b><br/><br/>
-  <code>Medical AI</code> <code>Computer Vision</code><br/>
-  <code>Object Detection</code> <code>Edge / On-device</code>
+<td width="28%" valign="top">
+  <b>Research Interests</b><br/>
+  Medical AI<br/>
+  Computer Vision<br/>
+  Object Detection<br/>
+  Edge / On-device Systems
 </td>
-<td width="50%" valign="top">
-  <b>Technical Stack</b><br/><br/>
-  <code>Python</code> <code>PyTorch</code> <code>OpenCV</code><br/>
-  <code>Linux</code> <code>Raspberry Pi</code> <code>Embedded</code>
+<td width="32%" valign="top">
+  <b>Technical Stack</b><br/>
+  Python<br/>
+  PyTorch<br/>
+  OpenCV<br/>
+  Linux<br/>
+  Raspberry Pi / Embedded Prototyping
 </td>
 </tr>
 </table>
