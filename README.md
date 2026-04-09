@@ -66,6 +66,8 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 <summary>Full publication list</summary>
 
 - [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC) — Scientific Reports, 2026
+- [주야간 악천후 환경에서의 강건한 횡단보도 분할모델 프레임워크 기법 연구](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:ufrVoPGSRksC) — 한국정보과학회 학술발표논문집, 2025
+- [TSF-CVGL: A Transformer-Based Semantic Framework for Cross-View Geolocalization](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:WF5omc3nYNoC) — 한국정보과학회 학술발표논문집, 2025
 - [Reference-Guided Automatic Mask Generation with SAM and CLIP for Metaverse Content Editing](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:eQOLeE2rZwMC) — 한국차세대컴퓨팅학회 학술대회, 2025
 - [Real-Time Automated Fruit Ninja System Using YOLO and Danger-Aware Path Optimization](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:YsMSGLbcyi4C) — 한국차세대컴퓨팅학회 학술대회, 2025
 - [A study on automated radish growth monitoring based on SOLOv2 Segmentation method](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:W7OEmFMy1HYC) — 한국차세대컴퓨팅학회 학술대회, 2025
