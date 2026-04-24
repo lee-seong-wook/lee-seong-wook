@@ -50,6 +50,7 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 | Since | Partner / Program | Project |
 | --- | --- | --- |
+| 2026 | NRF | 경량 Vision-Language Model (VLM) 기반의 공공 인프라 안전 관리를 위한 결함 진단, 예측, 평가 프레임워크 연구 |
 | 2026 | NRF / Hallym University Future Medical Research Center | 미래의료연구센터 육성사업 - 뇌신경계 임상현장 난제 해결을 위한 융합형 의사과학자 육성 및 현장맞춤형 미래의료선도기술 실용화 사업 |
 | 2025 | KOCCA | On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성 |
 | 2025 | Hallym University collaboration | 의료 데이터를 활용한 연합학습 기반 뇌졸중 예후 예측 모델 개발 연구 |
