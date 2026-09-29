@@ -57,16 +57,16 @@
 
 | Year | Venue | Research contribution |
 | --- | --- | --- |
-| 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight segmentation for on-device deployment. |
 | 2026 | Computers, Materials & Continua | [ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection](https://www.techscience.com/cmc/online/detail/28371)<br/>Missed-object history as a data scheduling signal for driving-scene detection. |
+| 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight segmentation for on-device deployment. |
 | 2025 | IEEE ISCT | [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)<br/>Resource-aware tea leaf disease detection. |
 | 2024 | KIIT Conference | [YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)<br/>Low-light preprocessing for stronger object detection. |
 
 <details>
 <summary>Full publication list</summary>
 
-- [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC) — Scientific Reports, 2026
 - [ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection](https://www.techscience.com/cmc/online/detail/28371) — Computers, Materials & Continua, 2026
+- [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC) — Scientific Reports, 2026
 - [주야간 악천후 환경에서의 강건한 횡단보도 분할모델 프레임워크 기법 연구](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:ufrVoPGSRksC) — 한국정보과학회 학술발표논문집, 2025
 - [TSF-CVGL: A Transformer-Based Semantic Framework for Cross-View Geolocalization](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:WF5omc3nYNoC) — 한국정보과학회 학술발표논문집, 2025
 - [Reference-Guided Automatic Mask Generation with SAM and CLIP for Metaverse Content Editing](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:eQOLeE2rZwMC) — 한국차세대컴퓨팅학회 학술대회, 2025
