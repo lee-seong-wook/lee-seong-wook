@@ -99,9 +99,9 @@ My research focuses on medical AI, robust visual recognition, and deployment-ori
 
 | Date | Award | Organization |
 | --- | --- | --- |
-| Nov. 2022 | 은상 (Silver Prize) | 디지털 고등직업교육협회, Korea |
-| Dec. 2022 | 최우수상 (Excellence Award) | Daelim University, Korea |
-| Aug. 2023 | 최우수상 (Excellence Award) | (주)더브레인에스, Korea |
-| Oct. 2023 | 대상 (Grand Prize) | Daelim University, Korea |
-| Nov. 2023 | 대상 (Grand Prize) | Daelim University, Korea |
-| Dec. 2023 | 최우수상 (Excellence Award) | 디지털 고등직업교육협회, Korea |
+| Nov. 2022 | 은상 | 디지털 고등직업교육협회, Korea |
+| Dec. 2022 | 최우수상 | Daelim University, Korea |
+| Aug. 2023 | 최우수상 | (주)더브레인에스, Korea |
+| Oct. 2023 | 대상 | Daelim University, Korea |
+| Nov. 2023 | 대상 | Daelim University, Korea |
+| Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
