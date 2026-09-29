@@ -16,8 +16,6 @@
   <em>Research at the interface of medical AI, computer vision, and deployment-oriented system design.</em>
 </p>
 
-My research focuses on medical AI, robust visual recognition, and deployment-oriented computer vision systems.
-
 <table>
 <tr>
 <td width="40%" valign="top">
