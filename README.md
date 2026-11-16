@@ -19,7 +19,7 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="38%" valign="top">
   <b>Current Research Focus</b>
   <ul>
     <li>Lightweight medical image segmentation for efficient deployment</li>
@@ -29,7 +29,7 @@
     <li>Vision pipelines that move from research prototypes to usable systems</li>
   </ul>
 </td>
-<td width="28%" valign="top">
+<td width="26%" valign="top">
   <b>Research Interests</b><br/>
   Medical AI<br/>
   Computer Vision<br/>
@@ -37,13 +37,13 @@
   Federated Learning<br/>
   Edge / On-device Systems
 </td>
-<td width="32%" valign="top">
+<td width="36%" valign="top">
   <b>Technical Stack</b><br/>
-  PyTorch · MONAI · Mamba (SSM)<br/>
-  YOLO / Ultralytics · OpenCV · MediaPipe<br/>
-  Python · CUDA · Linux · Distributed Training (DDP)<br/>
+  PyTorch · MONAI · Mamba<br/>
+  Ultralytics YOLO · OpenCV · MediaPipe<br/>
+  Python · CUDA · Linux · DDP<br/>
   Raspberry Pi · Arduino / ESP32<br/>
-  LLM agent tooling (Codex CLI, MCP)
+  Codex CLI · MCP workflows
 </td>
 </tr>
 </table>
