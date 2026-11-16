@@ -73,6 +73,8 @@
 - [ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection](https://www.techscience.com/cmc/online/detail/28371) — Computers, Materials & Continua, 2026
 - [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC) — Scientific Reports, 2026
 - [Federated Systemic Atherosclerosis Prediction via Cross-disease Knowledge Distillation and Learnable Prototype-based Reasoning](https://amia.secure-platform.com/symposium/solicitations/102018/sessiongallery/schedule/items/95396) — AMIA 2026 Annual Symposium, Poster #286, 2026
+- [강인한 자율주행을 위한 상황 적응형 YOLO: 문맥 인지 객체 탐지](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:LkGwnXOMwfcC) — 한국차세대컴퓨팅학회 춘계학술대회, 2026
+- MoS-SAM: 다중 모달 MRI 뇌종양 분할을 위한 모달리티 분리형 SAM 적응 — 한국전기전자학회 하계학술대회, 2026
 - [주야간 악천후 환경에서의 강건한 횡단보도 분할모델 프레임워크 기법 연구](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:ufrVoPGSRksC) — 한국정보과학회 학술발표논문집, 2025
 - [TSF-CVGL: A Transformer-Based Semantic Framework for Cross-View Geolocalization](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:WF5omc3nYNoC) — 한국정보과학회 학술발표논문집, 2025
 - [Reference-Guided Automatic Mask Generation with SAM and CLIP for Metaverse Content Editing](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:eQOLeE2rZwMC) — 한국차세대컴퓨팅학회 학술대회, 2025
