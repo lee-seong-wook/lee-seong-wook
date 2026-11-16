@@ -5,6 +5,7 @@
 <p align="center">
   <strong>Seongwook Lee</strong><br/>
   M.S. Student (2025-present), CVPR Lab at Sejong University<br/>
+  Visiting International Research Student, University of British Columbia (Sep. 2026 - Feb. 2027)<br/>
   Medical AI · Computer Vision · Deployable Vision Systems
 </p>
 
@@ -23,6 +24,8 @@
   <ul>
     <li>Lightweight medical image segmentation for efficient deployment</li>
     <li>Robust preprocessing and recognition in difficult visual conditions</li>
+    <li>Federated and privacy-preserving learning across disjoint clinical labels</li>
+    <li>On-device AI copyright protection and model ownership verification</li>
     <li>Vision pipelines that move from research prototypes to usable systems</li>
   </ul>
 </td>
@@ -31,15 +34,16 @@
   Medical AI<br/>
   Computer Vision<br/>
   Object Detection<br/>
+  Federated Learning<br/>
   Edge / On-device Systems
 </td>
 <td width="32%" valign="top">
   <b>Technical Stack</b><br/>
-  Python<br/>
-  PyTorch<br/>
-  OpenCV<br/>
-  Linux<br/>
-  Raspberry Pi / Embedded Prototyping
+  PyTorch · MONAI · Mamba (SSM)<br/>
+  YOLO / Ultralytics · OpenCV · MediaPipe<br/>
+  Python · CUDA · Linux · Distributed Training (DDP)<br/>
+  Raspberry Pi · Arduino / ESP32<br/>
+  LLM agent tooling (Codex CLI, MCP)
 </td>
 </tr>
 </table>
@@ -48,6 +52,7 @@
 
 | Since | Partner / Program | Project |
 | --- | --- | --- |
+| 2026 | University of British Columbia · VIRS | Visiting International Research Student — on-device AI copyright and security research, hosted by Prof. Zehua Wang (Blockchain@UBC, ECE). Sep. 2026 - Feb. 2027 |
 | 2026 | NRF | 경량 VLM 기반 공공 인프라 결함 진단·예측·평가 프레임워크 연구 |
 | 2026 | NRF / Hallym University Future Medical Research Center | 미래의료연구센터 육성사업 — 뇌신경계 임상 난제 해결을 위한 의사과학자 육성 및 미래의료기술 실용화 |
 | 2025 | KOCCA | On-Device AI 모델 저작권 보호 및 관리를 위한 글로벌 인재양성 |
@@ -59,6 +64,7 @@
 | --- | --- | --- |
 | 2026 | Computers, Materials & Continua | [ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection](https://www.techscience.com/cmc/online/detail/28371)<br/>Missed-object history as a data scheduling signal for driving-scene detection. |
 | 2026 | Scientific Reports | [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC)<br/>Lightweight segmentation for on-device deployment. |
+| 2026 | AMIA 2026 Annual Symposium · Poster #286 | [Federated Systemic Atherosclerosis Prediction via Cross-disease Knowledge Distillation and Learnable Prototype-based Reasoning](https://amia.secure-platform.com/symposium/solicitations/102018/sessiongallery/schedule/items/95396)<br/>Cross-disease zero-shot vascular risk prediction under disjoint labels without sharing raw data. Poster, Poster Session 2, AMIA 2026 Proceedings, Dallas, TX. |
 | 2025 | IEEE ISCT | [Lightweight Dual-Backbone Framework for Tea Leaf Disease Detection](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:Y0pCki6q_DkC)<br/>Resource-aware tea leaf disease detection. |
 | 2024 | KIIT Conference | [YOLOv10 기반 저조도 환경에서 객체 인식 성능 향상을 위한 이미지 전처리 기법 비교](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:d1gkVwhDpl0C)<br/>Low-light preprocessing for stronger object detection. |
 
@@ -67,6 +73,7 @@
 
 - [ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection](https://www.techscience.com/cmc/online/detail/28371) — Computers, Materials & Continua, 2026
 - [Lightweight SwiM-UNet with multi-dimensional adaptor for efficient on-device medical image segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:qjMakFHDy7sC) — Scientific Reports, 2026
+- [Federated Systemic Atherosclerosis Prediction via Cross-disease Knowledge Distillation and Learnable Prototype-based Reasoning](https://amia.secure-platform.com/symposium/solicitations/102018/sessiongallery/schedule/items/95396) — AMIA 2026 Annual Symposium, Poster #286, 2026
 - [주야간 악천후 환경에서의 강건한 횡단보도 분할모델 프레임워크 기법 연구](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:ufrVoPGSRksC) — 한국정보과학회 학술발표논문집, 2025
 - [TSF-CVGL: A Transformer-Based Semantic Framework for Cross-View Geolocalization](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:WF5omc3nYNoC) — 한국정보과학회 학술발표논문집, 2025
 - [Reference-Guided Automatic Mask Generation with SAM and CLIP for Metaverse Content Editing](https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=nsm4HuYAAAAJ&citation_for_view=nsm4HuYAAAAJ:eQOLeE2rZwMC) — 한국차세대컴퓨팅학회 학술대회, 2025
