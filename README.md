@@ -82,6 +82,7 @@
 
 | Project | Context | Focus |
 | --- | --- | --- |
+| [remiss](https://github.com/lee-seong-wook/remiss) | Computers, Materials & Continua, 2026 | ReMiss paper repository: overview, figures, and citation for missed-object data scheduling. |
 | [swim-unet](https://github.com/lee-seong-wook/swim-unet) | Scientific Reports, 2026 | Lightweight 3D medical segmentation research code. |
 | [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition) | (주)더브레인에스, Korea · Aug. 2023 | License plate recognition model and OCR pipeline. |
 | [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet) | Daelim University, Korea · Aug. 2023 - Oct. 2023 | Raspberry Pi and Arduino interworking with TTS-based system integration. |
