@@ -91,6 +91,7 @@
 | Project | Context | Focus |
 | --- | --- | --- |
 | [remiss](https://github.com/lee-seong-wook/remiss) | Computers, Materials & Continua, 2026 | ReMiss paper repository: overview, figures, and citation for missed-object data scheduling. |
+| [scead-yolo](https://github.com/lee-seong-wook/scead-yolo) | 한국차세대컴퓨팅학회 춘계학술대회, 2026 | SceAD-YOLO paper and award archive: scenario-adaptive detection, paper figures, and 우수상 certificate. |
 | [swim-unet](https://github.com/lee-seong-wook/swim-unet) | Scientific Reports, 2026 | Lightweight 3D medical segmentation research code. |
 | [Vehicle_license_plate_recognition](https://github.com/lee-seong-wook/Vehicle_license_plate_recognition) | (주)더브레인에스, Korea · Aug. 2023 | License plate recognition model and OCR pipeline. |
 | [Human_SaverNet](https://github.com/lee-seong-wook/Human_SaverNet) | Daelim University, Korea · Aug. 2023 - Oct. 2023 | Raspberry Pi and Arduino interworking with TTS-based system integration. |
@@ -114,3 +115,4 @@
 | Oct. 2023 | 대상 | Daelim University, Korea |
 | Nov. 2023 | 대상 | Daelim University, Korea |
 | Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
+| May 2026 | 우수상 | (사)한국차세대컴퓨팅학회, Korea |
