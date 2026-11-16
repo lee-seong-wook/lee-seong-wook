@@ -42,8 +42,7 @@
   PyTorch · MONAI · Mamba<br/>
   Ultralytics YOLO · OpenCV · MediaPipe<br/>
   Python · CUDA · Linux · DDP<br/>
-  Raspberry Pi · Arduino / ESP32<br/>
-  Codex CLI · MCP workflows
+  Raspberry Pi · Arduino / ESP32
 </td>
 </tr>
 </table>
