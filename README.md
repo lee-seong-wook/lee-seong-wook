@@ -101,7 +101,7 @@
 
 - [MyLock](https://github.com/lee-seong-wook/MyLock) — Daelim University, Korea · Aug. 2023 - Nov. 2023. Face recognition, system configuration, and 3D CAD modeling.
 - [object_detection_robot](https://github.com/lee-seong-wook/object_detection_robot) — Daelim University, Korea · Mar. 2023 - Jul. 2023. Data augmentation, labeling, logic design, and object detection model development.
-- [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) — 디지털 고등직업교육협회, Korea · Jul. 2022 - Oct. 2022. Arduino-based scout robot with ESP32-CAM integration and hardware implementation.
+- [Scout_Robot](https://github.com/lee-seong-wook/Scout_Robot) — 디지텍 고등직업교육협의회, Korea · Jul. 2022 - Oct. 2022. Arduino-based scout robot with ESP32-CAM integration and hardware implementation.
 
 </details>
 
@@ -109,10 +109,10 @@
 
 | Date | Award | Organization |
 | --- | --- | --- |
-| Nov. 2022 | 은상 | 디지털 고등직업교육협회, Korea |
+| Nov. 2022 | 은상 | 디지텍 고등직업교육협의회, Korea |
 | Dec. 2022 | 최우수상 | Daelim University, Korea |
 | Aug. 2023 | 최우수상 | (주)더브레인에스, Korea |
 | Oct. 2023 | 대상 | Daelim University, Korea |
 | Nov. 2023 | 대상 | Daelim University, Korea |
-| Dec. 2023 | 최우수상 | 디지털 고등직업교육협회, Korea |
+| Dec. 2023 | 최우수상 | 디지텍 고등직업교육협의회, Korea |
 | May 2026 | 우수상 | (사)한국차세대컴퓨팅학회, Korea |
